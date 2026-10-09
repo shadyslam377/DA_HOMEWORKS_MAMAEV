@@ -8,7 +8,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-data%20analysis-150458?logo=pandas&logoColor=white)
 ![seaborn](https://img.shields.io/badge/seaborn-visualization-4c72b0)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shadyslam377/DA_HOMEWORKS_MAMAEV/blob/main/telco_churn_eda.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shadyslam377/DA_HOMEWORKS_MAMAEV/blob/main/DA_MAMAEV_HW1.ipynb)
 
 ---
 
